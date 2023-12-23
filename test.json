@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/0xAkashsky/swager-xss-poc/main/test.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/0xAkashsky/swager-xss-poc/main/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
